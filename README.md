@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Hi there, I'm a1exsDev
+## I'm a1exsDev
 
+### I'm currently learning:
+- Html 5
+- JavaScript
+- CSS
+- Python
+- and Java
+
+I am currently working on my site and it's user interface. I am also working on another site for me and my friend called Obscure-Information[https://obscure-knowledge,github.io]
